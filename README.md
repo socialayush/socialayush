@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @socialayush
+- 👋 Hi, I’m Ayush Singh
 - 👀 I’m interested in Coding and developing software.
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate.
